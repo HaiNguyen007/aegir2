@@ -75,7 +75,7 @@
 *
 *
 * EC2 open port: 3306 cho Mysql
-* my.conf (#bind ip)
+* my.cnf (#bind ip)
 *
 * More:
 * cd /var/aegir/.drush
