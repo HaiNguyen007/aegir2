@@ -61,8 +61,8 @@
 * http://drush.ws/examples/example.aliases.drushrc.php
 *
 *password-less ssh:
-* cd /var/aegir/.shh
-* ssh-keygen
+* cd /var/aegir/
+* ssh-keygen (để sinh ra .ssh và publickey)
 * copy content of public key to remote /var/aegir/.ssh/authorized_keys (chmod 600)
 * .ssh (chmod 700)
 * hoặc:
